@@ -3,7 +3,7 @@ title: Shuojiang's Personal Blog
 theme: github.com/razonyang/hugo-theme-bootstrap
 copyright: 'Copyright © {year} Shuojiang Liu. All Rights Reserved.'
 defaultContentLanguage: en
-# hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
+hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
 # disableLanguages:
 #  - fr

@@ -13,7 +13,7 @@ keywords: Hugo, Bootstrap, Blog Theme
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
 
-# logo: images/logo.png # Logo image. Default to images/logo.webp.
+logo: images/logo.png # Logo image. Default to images/logo.webp.
 # logo: false # Disable Logo
 brand: HBS
 
@@ -41,9 +41,9 @@ palette: purple # Default palette. Optional. You'll need to clear the browser ca
 dateFormat: ":date_long"
 
 # Google Adsense
-googleAdsense: 
+# googleAdsense: 
 
-# math: true # Enable math globally.
+math: true # Enable math globally.
 # toc: false # Disable TOC globally.
 # tocPosition: content
 # breadcrumb: false # Disable breadcrumb
@@ -169,11 +169,11 @@ creativeCommons:
   #moderation: false # Same as Staticman's moderation.
 
 # See https://giscus.app
-giscus:
-  repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
-  repoId: "R_kgDOHJi95g" # required.
-  category: "General" # required.
-  categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
+# giscus:
+  # repo: "razonyang/hugo-theme-bootstrap-skeleton" # required.
+  # repoId: "R_kgDOHJi95g" # required.
+  # category: "General" # required.
+  # categoryId: "DIC_kwDOHJi95s4CTy6q" # required.
   # theme: "dark" # Default to auto.
   # mapping: "title" # Default to pathname.
   # inputPosition: "bottom" # Default to top.
@@ -240,15 +240,15 @@ pwa:
     #   sizes: 144x144
     #   src: /images/icons/icon-144x144.png
 
-contact:
-  endpoint: https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd # Backend endpoint, remove this line if you're using Netlify.
+# contact:
+  # endpoint: https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd # Backend endpoint, remove this line if you're using Netlify.
   # file: true # Enable file upload
   # fileField: image # The name of file field.
   # reCaptcha:
     # siteKey: ""
 
 repo:
-  url: https://github.com/razonyang/hugo-theme-bootstrap-skeleton
+  url: https://github.com/LiuShuoJiang/blogs
   branch: main
   # subPath: exampleSite
   # dateFormat: 02/01/2006, 15:04:05 PM
